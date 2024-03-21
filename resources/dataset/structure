@@ -1,0 +1,11 @@
+datasets/
+│
+├── synthetic_data/
+│   ├── dataset1.csv
+│   ├── dataset2.csv
+│   └── ...
+│
+└── real_world_data/
+    ├── dataset3.txt
+    ├── dataset4.xlsx
+    └── ...
