@@ -1,0 +1,13 @@
+tools/
+│
+├── data_processing.py
+├── analysis_helpers.py
+├── visualization_tools/
+│   ├── plot_utils.py
+│   ├── visualize_results.py
+│   └── ...
+│
+└── debugging/
+    ├── debug_utils.py
+    ├── error_analysis.py
+    └── ...
